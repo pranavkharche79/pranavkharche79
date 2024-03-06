@@ -17,6 +17,9 @@ I am a technology enthusiast with excitement for learning and spirit of hard wor
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-kharche-86521b232/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="mailto:pranavkharche79@gmail.com" target="_blank">
+<img src=https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge alt=linkedin style="margin-bottom: 5px;" />
+</a>
 </div>
 
 ## Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px /> :
@@ -66,7 +69,7 @@ I am a technology enthusiast with excitement for learning and spirit of hard wor
 <h2 align='left'><i>Github Statistics  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" /></i></h2> :
 <br />
 
-<div align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=pranavkharche79&theme=radical&hide_border=false)</div><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pranavkharche79&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=pranavkharche79&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavkharche79&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
