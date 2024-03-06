@@ -5,7 +5,7 @@
 </p>
 
 ## 💫 Profile :
-I am a technology enthusiast with excitement for learning and spirit of hard work. In my passion for  becoming a strong professional in technology feld, I have learned basics of most relevant technologies in today's web development industry. I love exploring new problem statements and identifying a solution for them. One of my biggest strength is my ability to adapt to challenging environments and thriving through them using limited resources at my disposal. I am excited to explore new challenges and develop myself along my peers.
+#### I am a technology enthusiast with excitement for learning and spirit of hard work. In my passion for  becoming a strong professional in technology feld, I have learned basics of most relevant technologies in today's web development industry. I love exploring new problem statements and identifying a solution for them. One of my biggest strength is my ability to adapt to challenging environments and thriving through them using limited resources at my disposal. I am excited to explore new challenges and develop myself along my peers.
 
 <div align="center">
 <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -76,7 +76,6 @@ I am a technology enthusiast with excitement for learning and spirit of hard wor
 <img  alt="Pranav's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkharche79&theme=radical&hide_border=false"/>
 </a>
 </p>
-<br/>
 <a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranavkharche79&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /></a>
 <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavkharche79&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
 <br/>
