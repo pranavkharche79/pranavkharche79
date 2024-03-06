@@ -77,8 +77,9 @@ I am a technology enthusiast with excitement for learning and spirit of hard wor
 </a>
 </p>
 <br/>
-![](https://github-readme-stats.vercel.app/api?username=pranavkharche79&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavkharche79&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranavkharche79&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /></a>
+<a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavkharche79&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
+<br/>
 
 ---
 ## Profile Views & Followers
