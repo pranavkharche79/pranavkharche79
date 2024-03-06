@@ -1,21 +1,23 @@
 ## Hello Developers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
 <p>
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=I'm+a+Engineer+Student;Hi+I'm+PRANAV;I'm+a+Full+Stack+Developer;Welcome+to+my+GitHub+Profile!" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?&font=Roboto&color=0000FF&size=24&lines=I'm+a+Engineer+Student;Hi+I'm+PRANAV;I'm+a+Full+Stack+Developer;Welcome+to+my+GitHub+Profile!" /></a>
 </p>
 
-## 💫 Profile:
+## 💫 Profile :
 I am a technology enthusiast with excitement for learning and spirit of hard work. In my passion for  becoming a strong professional in technology feld, I have learned basics of most relevant technologies in today's web development industry. I love exploring new problem statements and identifying a solution for them. One of my biggest strength is my ability to adapt to challenging environments and thriving through them using limited resources at my disposal. I am excited to explore new challenges and develop myself along my peers.
 
-<img align="centre" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🌐 Socials:
-<a href="https://github.com/https://github.com/pranavkharche79" target="_blank">
+## 🌐 Socials :
+<div align="center"> 
+<a href="https://github.com/pranavkharche79" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-kharche-86521b232/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+</div>
 
 ## Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px /> :
 
@@ -61,16 +63,16 @@ I am a technology enthusiast with excitement for learning and spirit of hard wor
 </td></tr></table>  
 
 
-<h2 align='left'><i>Github Statistics  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" /></i></h2>
+<h2 align='left'><i>Github Statistics  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" /></i></h2> :
 <br />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranavkharche79&theme=radical&hide_border=false)<br/>
+<div align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=pranavkharche79&theme=radical&hide_border=false)</div><br/>
 ![](https://github-readme-stats.vercel.app/api?username=pranavkharche79&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavkharche79&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 ## Profile Views & Followers
-<div align="left">
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=pranavkharche79&color=blueviolet">
 <a href="https://github.com/pranavkharche79?tab=followers"><img src="https://img.shields.io/github/followers/pranavkharche79?label=Followers&style=social"></a>
 <div>
