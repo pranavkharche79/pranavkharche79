@@ -1,4 +1,4 @@
-## Hello Developers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+## Hello Developers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 
 <p>
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?&font=Roboto&color=0000FF&size=24&lines=Hi+I'm+PRANAV;I'm+a+Full+Stack+Developer;Welcome+to+my+GitHub+Profile!" /></a>
