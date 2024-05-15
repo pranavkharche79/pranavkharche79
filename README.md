@@ -68,7 +68,7 @@
 </td></tr></table>  
 
 
-<h2 align='left'><i>Github Statistics  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" /></i></h2> :
+<h2 align='left'><i>Github Statistics  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" /></i></h2>
 <br />
 
 <p align="center">
