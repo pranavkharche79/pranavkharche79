@@ -24,7 +24,7 @@
 </a>
 </div>
 
-## Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px /> :
+## Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=25px /> :
 
 <table><tr><td valign="top" width="33%">
 
@@ -69,8 +69,6 @@
 
 
 <h2 align='left'><i>Github Statistics  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" /></i></h2>
-<br />
-
 <p align="center">
 <a href="#">
 <img  alt="Pranav's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkharche79&theme=radical&hide_border=false"/>
