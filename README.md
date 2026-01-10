@@ -24,52 +24,57 @@
 </a>
 </div>
 
-## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px" />
+<h2 align="center">
+  Skills 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"/>
+</h2>
 
 <table align="center">
 <tr>
 
 <td align="center" width="33%">
 
-### Frontend
+### 🖥️ Frontend
 <p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="42"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="42"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="42"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="42"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="42"/>
 </p>
 
 </td>
 
 <td align="center" width="33%">
 
-### Backend
+### ⚙️ Backend
 <p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="42"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="42"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" height="42"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="42"/>
 </p>
 
 </td>
 
 <td align="center" width="33%">
 
-### DevOps
+### ☁️ DevOps
 <p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="45"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="42"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="42"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="42"/>
 </p>
 
 </td>
 
 </tr>
-</table> 
+</table>
+
+<p align="center">
+  <strong>Building scalable, secure & performant applications</strong>
+</p>
+
 
 <h2 align='left'><i>Github Statistics  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" /></i></h2>
 <p align="center">
