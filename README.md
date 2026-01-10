@@ -24,7 +24,7 @@
 </a>
 </div>
 
-<h2 align="center">
+<h2>
   Skills 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"/>
 </h2>
