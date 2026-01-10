@@ -76,6 +76,13 @@
 </p>
 <a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranavkharche79&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /></a>
 <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavkharche79&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
+<a href="#" rel="nofollow">
+  <img src="https://github.com/pranavkharche79/Spring_Boot/blob/main/github-user-contribution.svg"
+       alt="Commits SVG"
+       data-canonical-src="https://github.com/pranavkharche79/Spring_Boot/blob/main/github-user-contribution.svg"
+       style="max-width:100%;">
+</a>
+
 <br/>
 
 ---
